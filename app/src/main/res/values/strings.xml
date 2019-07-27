@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book Shop</string>
+    <string name="menu_info">⋮</string>
+    <string name="update_btn">Update</string>
+</resources>
